@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Agrestal Anarchy`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `The Seditious Sapient`,
+      summary: `whose humble goal is only to un-civilize entire the world.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A guide to the wild world of practical real-life anarchism.`,
     siteUrl: `https://agrestalanarchism.com`,
     social: {
-      twitter: `kylemathews`,
+      facebook: `seditious.sapient`,
     },
   },
   plugins: [
