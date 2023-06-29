@@ -1,7 +1,7 @@
 ---
 title: DIY Refillable Respirator Cartridges
 date: "2023-06-28T22:12:03.284Z"
-description: "How-to guide for making cartridges you don't have to throw away. You know, cause that's expensive and also the planet is dying. ¯\\_(ツ)_/¯"
+description: "How-to guide for making PPE you don't have to throw away. You know, cause that's expensive and also the planet is dying. ¯\\_(ツ)_/¯"
 ---
 
 This is my first post on my new blog!
