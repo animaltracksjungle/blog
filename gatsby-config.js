@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Agrestal Anarchy`,
+    title: `Agrestal Anarchism`,
     author: {
       name: `The Seditious Sapient`,
       summary: `whose humble goal is only to un-civilize entire the world.`,
@@ -53,7 +53,7 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 630,
-            },
+              disableBgImage: true,            },
           },
           {
             resolve: `gatsby-remark-responsive-iframe`,
