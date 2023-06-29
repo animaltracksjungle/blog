@@ -12,7 +12,7 @@ module.exports = {
     title: `Agrestal Anarchism`,
     author: {
       name: `The Seditious Sapient`,
-      summary: `whose humble goal is only to un-civilize entire the world.`,
+      summary: `whose humble goal is only to un-civilize the entire world.`,
     },
     description: `A guide to the wild world of practical real-life anarchism.`,
     siteUrl: `https://agrestalanarchism.com`,
