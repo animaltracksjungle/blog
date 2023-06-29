@@ -1,6 +1,6 @@
 ---
 title: DIY Refillable Respirator Cartridges
-date: "2023-06-28T22:12:03.284Z"
+date: "2023-06-29T00:00:00.284Z"
 description: "How-to guide for making PPE you don't have to throw away. You know, cause that's expensive and also the planet is dying. ¯\\_(ツ)_/¯"
 ---
 
@@ -15,6 +15,10 @@ BUT, we can't all afford (and don't all want to) run around wearing military-gra
 The only issue being, that the cartridges are disposable. Which, in this day and age, just seems overly wasteful and unnecessarily expensive.
 
 So, I started a project to make my own refillable cartridges for my respirator by canibalizing the adaptors built into a pair that I have had for a while.
+
+Final results:
+
+![](./28.jpg)
 
 My raw materials were all things I had on hand, but store bought equivalents should not be pricey.
 
