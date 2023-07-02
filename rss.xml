@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A guide to the wild world of practical real-life anarchism.]]></description><link>https://agrestalanarchism.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 02 Jul 2023 03:26:32 GMT</lastBuildDate><item><title><![CDATA[Different Kinds of Chaos]]></title><description><![CDATA[When you start talking to other people about anarchism visions of Immortan Joe and Toecutter dance through minds and they say things like…]]></description><link>https://agrestalanarchism.com/different-kinds-of-chaos/</link><guid isPermaLink="false">https://agrestalanarchism.com/different-kinds-of-chaos/</guid><pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;When you start talking to other people about anarchism visions of Immortan Joe and Toecutter dance through minds and they say things like:
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A guide to the wild world of practical real-life anarchism.]]></description><link>https://agrestalanarchism.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 02 Jul 2023 04:45:28 GMT</lastBuildDate><item><title><![CDATA[Different Kinds of Chaos]]></title><description><![CDATA[When you start talking to other people about anarchism visions of Immortan Joe and Toecutter dance through minds and they say things like…]]></description><link>https://agrestalanarchism.com/different-kinds-of-chaos/</link><guid isPermaLink="false">https://agrestalanarchism.com/different-kinds-of-chaos/</guid><pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;When you start talking to other people about anarchism visions of Immortan Joe and Toecutter dance through minds and they say things like:
 &quot;What so you just want utter chaos?&quot;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -31,6 +31,7 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(&lt;a href=&quot;https://www.reddit.com/r/MovieDetails/comments/dhmq3w/hugh_keansbyrne_has_played_the_lead_antagonist_in/?utm_source=share&amp;#x26;utm_medium=web3x&amp;#x26;utm_name=web3xcss&amp;#x26;utm_term=1&amp;#x26;utm_content=share_button&quot;&gt;Hugh Keans-Byrne&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;And my answer might be snarky: &quot;Something like that.&quot; This admittedly rarely leads to productive intellectual discourse. I&apos;m pretty bad at that these days.&lt;/p&gt;
 &lt;p&gt;But nonetheless, I felt I should expand upon what the proper answer is. And what I should answer next time:&lt;/p&gt;
 &lt;h2&gt;&quot;There&apos;s different kinds of chaos.&quot;&lt;/h2&gt;
@@ -39,7 +40,7 @@
 &lt;h2&gt;&quot;Yeah, but without the government it would be even worse.&quot;&lt;/h2&gt;
 &lt;p&gt;This gets closer to the heart of the matter and takes a bit more work to unpack.&lt;/p&gt;
 &lt;p&gt;I think the core issue is that the government-controlled curriculums in the government-mandated history classes present an overwhelmingly positive light on the role that governments have played. I know, this bias can be difficult for some people to see but once you point it out, it&apos;s hard for any reasonable person to get around it.&lt;/p&gt;
-&lt;h2&gt;What was the state of affairs before governments were around and what would it be were we to dissolve them?&lt;/h2&gt;
+&lt;h2&gt;What was the state of affairs before governments?&lt;/h2&gt;
 &lt;p&gt;I&apos;m not an anthropologist, but I believe I can safely make some broad strokes here based on what the actual anthropologists have written.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -49,16 +50,17 @@
 &lt;p&gt;It seems that most people lived in small tribal communities that traveled frequently, if not seasonally.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;The rise of stationary agricultural systems coincides with the emergence of centralized power structures.&lt;/p&gt;
+&lt;p&gt;The rise of stationary agricultural systems coincides with the emergence of centralized power structures and also &lt;a href=&quot;https://today.uconn.edu/2020/03/farming-developed-cooperation-violence/&quot;&gt;coincides with a rise in violence&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Now, some conclusions based on that which seem reasonable to me:&lt;/p&gt;
-&lt;p&gt;Interpersonal violence in such a world would have necessarily been small-scale and of secondary priority. As in, the main priority would be the survival of the tribe. Hurting the people in your tribe wouldn&apos;t make sense if you depended on them for survival. Besides, they all know where you sleep, and would have more than ample opportunity to get you back. Or worse, get your family.&lt;/p&gt;
+&lt;p&gt;Interpersonal violence in a pre-agriculture world would have necessarily been small-scale and of secondary priority. As in, the main priority would be the survival of the tribe. Hurting the people in your tribe wouldn&apos;t make sense if you depended on them for survival. Besides, they all know where you sleep, and would have more than ample opportunity to get you back. Or worse, get your family.&lt;/p&gt;
 &lt;p&gt;The other major category would have been intertribal violence. But even that would not be a major, world-ending problem. People were rare in that world. Tribes would run into each other enough to exchange people, ideas, and goods when they wanted to. But intense violence would be more likely to push other tribes away and reduce your tribe&apos;s ability to trade in such things.&lt;/p&gt;
-&lt;p&gt;This lack of a containment mechanism is absolutely critical to my point. Because violent people and violent tribes can&apos;t hurt you if you get far enough away from them. But violent states have the power to literally destroy the planet. The difference in scale there is mind-boggling. But people are so so worried about a theoretically increased chance of small-scale violence that they accept that there are people out there with nuclear weapons.&lt;/p&gt;
+&lt;p&gt;This lack of a containment mechanism is absolutely critical to my point. Because violent people and violent tribes can&apos;t hurt you if you get far enough away from them. But violent states have the power to literally destroy the planet. The difference in scale there is mind-boggling. But people are so so worried about a theoretically increased chance of small-scale violence that they accept that there are &lt;a href=&quot;https://fas.org/initiative/status-world-nuclear-forces/&quot;&gt;people out there with access to nuclear weapons&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;But supposedly we have to have nukes to keep the peace between states, and we have to have states to keep the peace between people. Think about that. Our world has to be on the brink of total annihilation because we&apos;re worried somebody might want to kill us over what? Our possessions? They want our shiny rocks or our sleeping furs.&lt;/p&gt;
 &lt;p&gt;I don&apos;t think I need to tell you which is more terrifying to me.&lt;/p&gt;
-&lt;p&gt;Anyway, the final conclusion I&apos;ve come to is: &lt;em&gt;the kind of chaos where there isn&apos;t a government ordering people around is far and above preferable to the chaos of having entities with the ability to wipe out entire races of people&lt;/em&gt;.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;The final conclusion I&apos;ve come to is this: &lt;em&gt;the kind of chaos where there isn&apos;t a government ordering people around is far and above preferable to the chaos of having entities with the ability to wipe out entire races of people&lt;/em&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
 &lt;p&gt;These men are all talk; What is needed is action - action! &lt;br&gt;
