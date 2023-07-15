@@ -6,23 +6,26 @@ description: "How-to guide for making cheap belt accessories fit nicely on a mol
 
 ![](./1.jpg)
 
-![](./2.jpg)
 
-![](./3.jpg)
+[MTM Ammo Belt Pouch (Red) Small](https://a.co/d/bwFDxox)
+
+[Clip & Carry Kydex Multitool Sheath for LEATHERMAN OHT](https://a.co/d/0AwSRyS)
+
+![](./6.jpg)
 
 ![](./4.jpg)
 
 ![](./5.jpg)
 
-![](./6.jpg)
+![](./3.jpg)
 
 ![](./7.jpg)
-
-![](./8.jpg)
 
 ![](./9.jpg)
 
 ![](./10.jpg)
+
+![](./13.jpg)
 
 ![](./11.jpg)
 
