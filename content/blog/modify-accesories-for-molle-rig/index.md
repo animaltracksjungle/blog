@@ -4,7 +4,7 @@ date: "2023-07-14T00:00:00.284Z"
 description: "How-to guide for making cheap belt accessories fit nicely on a molle rig."
 ---
 
-Welcome back to another how-to guide. Like my previous one will be for the purpose getting survival gear to work well for you without having to spend a lot of money.
+Welcome back to another how-to guide. Like my previous one, this will be for the purpose getting survival gear to work well for you without having to spend a lot of money.
 
 By far, the easiest way to carry mission-critical gear without burying it all in a bag is to use a webbing rig of some kind. I have been experimenting with a molle chest rig, but more on that in a future post.
 
@@ -13,9 +13,9 @@ For now, I will focus on how I make affordable belt accessories more compatible 
 For this example I will use these accessories:
 
 
-* [MTM Ammo Belt Pouch (Red) Small](https://a.co/d/bwFDxox)
+* [MTM Ammo Pouch](https://a.co/d/bwFDxox)
 
-* [Clip & Carry Kydex Multitool Sheath for LEATHERMAN OHT](https://a.co/d/0AwSRyS)
+* [Clip & Carry Multitool Sheath](https://a.co/d/0AwSRyS)
 
 ![](./1.jpg)
 
@@ -23,7 +23,7 @@ The main thing is really to add holes which you can use to lash the item to the 
 
 First, mark areas on the items where the lashing won't impede with the function.
 
-For the ammo pouch I decided to greate a basic grid of holes on the front pannel.
+For the ammo pouch, I decided to create a basic grid of holes on the front pannel.
 
 ![](./6.jpg)
 
