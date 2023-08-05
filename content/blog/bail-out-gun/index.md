@@ -19,7 +19,7 @@ A gun that can be thrown into the back of a truck, the cabin of a van, or carrie
 
 ![](./11.jpg)
 
-I do want to make it clear, that there are lots of weapons that would meet the above requirements. This is just what I had access to for this setup.
+I do want to make it clear that there are lots of weapons that would meet the above requirements. This is just what I had access to for this setup.
 
 As far as the 22lr cartridge is concerned, range is definitely a problem. But, with hyper velocity ammo and the generous 22.50 inch barrel, I can hit targets out to 100 yards without issue. And that's enough into medium range for me. I seem to have the best luck with CCI Stingers for those long shots.
 
