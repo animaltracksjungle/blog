@@ -1,6 +1,6 @@
 ---
 title: You Are Lying to Yourself
-date: "2024-01-10T00:00:00.284Z"
+date: "2024-01-13T00:00:00.284Z"
 description: "Simple steps to get in touch the way things really are."
 ---
 
@@ -10,7 +10,7 @@ description: "Simple steps to get in touch the way things really are."
 
 ## Premise
 
-When the issues at hand are small, the consequences are minor or nonexistent. If it takes you an hour more than you thought to write up that report at work or an 15 extra minutes to arrive at your friend’s house (because you forgot that snowbirds exist) then really, who cares? **But in mentally and physically preparing for scenarios which matter, you cannot let your biases distort your perspective.**
+When the issues at hand are small, the consequences are minor or nonexistent. If it takes you an hour more than you thought to write up that report at work or a 15 extra minutes to arrive at your friend’s house (because you forgot that snowbirds exist) then really, who cares? **But in mentally and physically preparing for scenarios which matter, you cannot let your biases distort your perspective.**
 
 This is a pervasive idea in the prepping community, and seems to ring true with leftists and anarchists who are focused on praxis and mutual aid. Though most preppers might be reluctant to classify themselves as [materialists](https://www.marxists.org/glossary/terms/m/a.htm#materialism), the belief in a concrete world and that we can gain an understanding of it is fundamental.
 
